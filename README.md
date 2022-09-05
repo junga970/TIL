@@ -24,3 +24,5 @@
 -   [반복문 while, do - while, for, for each](https://ja-record.tistory.com/14)
 
 -   [배열 Array](https://ja-record.tistory.com/17)
+
+-   [다차원 배열과 가변 배열](https://ja-record.tistory.com/19)
