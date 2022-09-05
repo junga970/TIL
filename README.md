@@ -11,7 +11,7 @@
 
 - [Java 장단점, 프로그램 실행 과정](https://ja-record.tistory.com/7)
 
--   [Java의 규칙 main 메서드](https://ja-record.tistory.com/7?category=964217)
+-   [Java의 규칙 main 메서드](https://ja-record.tistory.com/9)
 
 -   [상수와 리터럴](https://ja-record.tistory.com/10?category=964217)
 
