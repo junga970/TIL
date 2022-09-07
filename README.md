@@ -21,7 +21,7 @@
 
 -   [조건문 if, switch](https://ja-record.tistory.com/13?category=964217)
 
--   [반복문 while, do - while, for, for each](https://ja-record.tistory.com/14)
+-   ~~[반복문 while, do - while, for, for each](https://ja-record.tistory.com/14)~~ 실수로 글이 삭제됨🥲
 
 -   [배열 Array](https://ja-record.tistory.com/17)
 
@@ -32,3 +32,5 @@
 - [클래스 필드의 구분](https://ja-record.tistory.com/22)
 
 - [this와 this()](https://ja-record.tistory.com/23)
+
+- [클래스 메서드와 인스턴스 메서드](https://ja-record.tistory.com/25)
