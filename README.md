@@ -9,6 +9,8 @@
 ## Java
 - [JVM, JRE, JDK ?](https://ja-record.tistory.com/5)
 
+- [JVM 구조](https://ja-record.tistory.com/27)
+
 - [Java 장단점, 프로그램 실행 과정](https://ja-record.tistory.com/7)
 
 -   [Java의 규칙 main 메서드](https://ja-record.tistory.com/9)
