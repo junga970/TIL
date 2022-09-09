@@ -38,3 +38,5 @@
 - [클래스 메서드와 인스턴스 메서드](https://ja-record.tistory.com/25)
 
 - [접근 제어자](https://ja-record.tistory.com/28)
+
+- [상속과 Object 클래스](https://ja-record.tistory.com/30)
