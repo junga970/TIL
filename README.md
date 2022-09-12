@@ -48,3 +48,5 @@
 - [[Java] super & super()](https://ja-record.tistory.com/34)
 
 - [[Java] 다형성, 업캐스팅과 다운캐스팅, instanceof](https://ja-record.tistory.com/35)
+
+- [[Java] 추상 메소드를 포함하는 추상 클래스](https://ja-record.tistory.com/37)
