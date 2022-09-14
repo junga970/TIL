@@ -55,5 +55,7 @@
 
 - [[Java] static & final & static final 차이](https://ja-record.tistory.com/39)
 
+- [[Java] 내부 클래스와 익명 클래스](https://ja-record.tistory.com/41)
+
 
 
