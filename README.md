@@ -6,7 +6,10 @@
 
 <br>
 
-## Java
+<details>
+<summary>ㅤJava</summary>
+<div markdown="1">
+
 - [[Java] JVM, JRE, JDK ?](https://ja-record.tistory.com/5)
 
 - [[Java] JVM 구조](https://ja-record.tistory.com/27)
@@ -60,6 +63,9 @@
 - [[Java] 입출력 스트림](https://ja-record.tistory.com/43)
 
 - [[Java] 예외 처리](https://ja-record.tistory.com/44)
+
+</div>
+</details>
 
 
 
