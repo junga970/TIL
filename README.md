@@ -64,6 +64,8 @@
 
 - [[Java] 예외 처리](https://ja-record.tistory.com/44)
 
+- [[Java] 제네릭 generic](https://ja-record.tistory.com/46)
+
 </div>
 </details>
 
