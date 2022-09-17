@@ -66,6 +66,8 @@
 
 - [[Java] 제네릭 generic](https://ja-record.tistory.com/46)
 
+- [[Java] 람다식과 함수형 인터페이스](https://ja-record.tistory.com/47)
+
 </div>
 </details>
 
