@@ -68,6 +68,8 @@
 
 - [[Java] 람다식과 함수형 인터페이스](https://ja-record.tistory.com/47)
 
+- [[Java] 컬렉션 프레임워크](https://ja-record.tistory.com/49)
+
 </div>
 </details>
 
