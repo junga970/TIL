@@ -70,6 +70,8 @@
 
 - [[Java] 컬렉션 프레임워크](https://ja-record.tistory.com/49)
 
+- [[Java] List 컬렉션 클래스](https://ja-record.tistory.com/51)
+
 </div>
 </details>
 
