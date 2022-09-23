@@ -72,7 +72,8 @@
 
 - [[Java] List 컬렉션 클래스](https://ja-record.tistory.com/51)
 
-- [[Java] Stack & Queue](https://ja-record.tistory.com/52)
+- [[Java] Stack & Queue](https://ja-record.tistory.com/53)
+
 
 </div>
 </details>
