@@ -74,6 +74,8 @@
 
 - [[Java] Stack & Queue](https://ja-record.tistory.com/53)
 
+- [[Java] Deque](https://ja-record.tistory.com/54)
+
 
 </div>
 </details>
