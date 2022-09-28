@@ -78,6 +78,8 @@
 
 - [[Java] Set 컬렉션 클래스](https://ja-record.tistory.com/56)
 
+- [[Java] Map 컬렉션 클래스](https://devlog-wjdrbs96.tistory.com/253)
+
 
 </div>
 </details>
