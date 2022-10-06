@@ -90,3 +90,13 @@
 
 
 
+
+<details>
+<summary>ㅤ자료구조 </summary>
+<div markdown="1">
+
+- [[자료구조] 트리](https://ja-record.tistory.com/60)
+
+</div>
+</details>
+
