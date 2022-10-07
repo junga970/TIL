@@ -96,6 +96,7 @@
 <div markdown="1">
 
 - [[자료구조] 트리](https://ja-record.tistory.com/60)
+- [[자료구조] 이진 탐색 트리](https://ja-record.tistory.com/61)
 
 </div>
 </details>
